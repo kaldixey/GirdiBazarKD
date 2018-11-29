@@ -16,7 +16,7 @@ Funded by
 Funded Partners
 ===============
 ![British Museum]
-![Munich University(https://www.research-in-germany.org/.imaging/mte/daad-theme/small/dam/images/Logos-Extern-Organ.--Companies--Portale-etc./AvH-Logo.png/jcr:content/AvH-Logo.png)
+![Munich University](https://www.research-in-germany.org/.imaging/mte/daad-theme/small/dam/images/Logos-Extern-Organ.--Companies--Portale-etc./AvH-Logo.png/jcr:content/AvH-Logo.png)
 ![logo lapislazzulo CMYK](http://micropasts.org/wp-content/uploads/2016/05/logo-lapislazzulo-CMYK-e1464338838694.jpg)
 ![UCL](https://micropasts-other.s3.amazonaws.com/other/UCL_logo_wide.png)
 

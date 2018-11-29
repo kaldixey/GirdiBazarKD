@@ -282,13 +282,13 @@ a.ol-full-screen-true:after {
 
 <script>
 function loadUserProgress() {
-    pybossa.userProgress('GirdiBazar').done(function(data){
+    pybossa.userProgress('GirdiBazarKD').done(function(data){
     	
     	console.log('Tasks done so far: ' + data.done);
     	
-        if ((data.done == 1) && ($.cookie('surveyjGirdiBazar') === undefined)){
+        if ((data.done == 1) && ($.cookie('surveyjGirdiBazarKD') === undefined)){
            $("#survey").modal('show');
-           $.cookie('surveyGirdiBazar', 'shown', { path: '/'});
+           $.cookie('surveyGirdiBazarKD', 'shown', { path: '/'});
         }
         
         var pct = Math.round((data.done*100)/data.total);
@@ -658,5 +658,5 @@ pybossa.presentTask(function(task, deferred) {
         
 });
 
-pybossa.run('GirdiBazar');
+pybossa.run('GirdiBazarKD');
 </script>
